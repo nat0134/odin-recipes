@@ -26,15 +26,15 @@ It presents an understanding and use of:
 
 ```text
 odin-recipes/
-|--- index.html # Home
-|--- recipes/
-|    |--- thai-chicken.html
-|
-|--- images/
-|    |--- thai-chicken.webp
+├ index.html # Home
+├ recipes/
+│    └ thai-chicken.html
+│
+├ images/
+|    └ thai-chicken.webp
 |    
-|--- LICENSE
-|--- README.md
+├ LICENSE
+└ README.md
 ```
 
 ## Key Learnings

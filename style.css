@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, serif;
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    width: 100%;
+}
+
+.container {
+    border: 5px groove salmon;
+    border-radius: 25px;
+    padding: 100px;
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: darkblue;
+}
+
+a {
+    display: block;
+    margin: 10px 0;
+}
+
+a:hover {
+    color: olivedrab;
+    border: 1px solid olivedrab;
+}

@@ -1,0 +1,48 @@
+body {
+    font-family: Georgia, serif;
+    text-align: center;
+    width: 100%;
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: grid;
+    place-items: center;
+    border: 5px groove salmon;
+    border-radius: 50px;
+}
+
+.container {
+    border: 3px solid salmon;
+    border-radius: 25px;
+    padding: 30px;
+    text-align: left;
+}
+
+ol {
+    text-align: left;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: darkblue;
+}
+
+a {
+    display: block;
+    margin: 10px 0;
+    width: 100px;
+}
+
+a:hover {
+    color: olivedrab;
+    border: 1px solid olivedrab;
+}
+
+img {
+    border: 5px solid grey;
+    border-radius: 15px;
+}

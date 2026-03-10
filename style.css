@@ -5,13 +5,12 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    width: 100%;
 }
 
 .container {
     border: 5px groove salmon;
     border-radius: 25px;
-    padding: 100px;
+    padding: 4em;
 }
 
 h1 {
